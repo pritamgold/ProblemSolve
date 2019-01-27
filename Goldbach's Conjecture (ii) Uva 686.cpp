@@ -1,3 +1,5 @@
+// PRITAM GOLDER
+
 #include<bits/stdc++.h>
 using namespace std;
 #define MAXN 32768
